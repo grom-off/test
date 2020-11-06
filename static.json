@@ -1,7 +1,8 @@
 {
    "headers":  {
      "/*": {
-     "X-Author": "grom_off"
+     "X-Author": "grom_off",
+     "Access-Control-Allow-Origin": "*"
      }
    }
 }
